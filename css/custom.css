@@ -1,0 +1,41 @@
+
+.current-menu-item a{
+    background-color: black;
+    color: #fff;
+    padding: 10px;
+   
+   }
+   .gallerys img{
+    margin: 5px;
+      height: 70%;
+     width: 90%;
+}
+.nav li a{
+
+    text-decoration: none;
+}
+
+
+.leftcolumn {
+    float: left;
+    width: 75%;
+  }
+
+  .rightcolumn {
+    float: left;
+    width: 25%;
+    padding-left: 20px;
+  }
+
+  .card {
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+  }
+
+  .row:after {
+    
+    content: "";
+    display: table;
+    clear: both;
+  }
